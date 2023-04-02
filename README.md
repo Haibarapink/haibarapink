@@ -7,7 +7,7 @@ public:
   std::string work                    = "🏦nullptr";
   std::string lang                    = "😙c++, rust, go, python";
   std::string learning                = "😁webassembly , English";
-  std::string project                 = "🌲A On-disk B-tree";
+  std::string project                 = "🌲An On-disk B-tree";
 };
 
 ```
