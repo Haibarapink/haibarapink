@@ -1,16 +1,12 @@
-### Hi there 👋
+###  Writen my introduction by cxx:
+```
+class Pink {
+public:
+  std::string name                    = " pink ";
+  std::string current_reading_book    = "📕The modern B-tree techiques";
+  std::string work                    = "🏦nullptr";
+  std::string lang                    = "😙c++, rust, go, python";
+  std::string learning                = "webassembly , English";
+};
 
-<!--
-**Haibarapink/haibarapink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
