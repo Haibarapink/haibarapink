@@ -6,7 +6,8 @@ public:
   std::string current_reading_book    = "📕The modern B-tree techiques";
   std::string work                    = "🏦nullptr";
   std::string lang                    = "😙c++, rust, go, python";
-  std::string learning                = "webassembly , English";
+  std::string learning                = "😁webassembly , English";
+  std::string project                 = "🌲A On-disk B-tree";
 };
 
 ```
