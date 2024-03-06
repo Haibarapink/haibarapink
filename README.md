@@ -1,6 +1,6 @@
 💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎
 
-Interested in: ds, db, web, webassembly, rust, c++, golang.
+Interested in: ds, db, concurrency...
 
 E-Mail: haibarapink@gmail.com
 
