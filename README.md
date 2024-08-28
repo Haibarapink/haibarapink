@@ -1,6 +1,6 @@
 💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎💎
 
-Interested in: ds, db, concurrency...
+Interested in:money!
 
 E-Mail: haibarapink@gmail.com
 
